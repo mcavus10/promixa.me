@@ -1,5 +1,5 @@
 Promixa: AI-Powered Transcription Platform - Technical Documentation
-Türkçe Görüntüle
+[promixa.me](https://promixa.me/)
 1. Introduction & Project Goal
 Promixa (promixa.me) is an AI-powered platform designed to provide users with advanced audio and video transcription services. Future plans include adding AI image generation features. The application is built using modern web technologies with a secure and scalable architecture.
 
